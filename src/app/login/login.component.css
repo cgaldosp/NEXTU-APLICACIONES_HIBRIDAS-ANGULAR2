@@ -1,0 +1,23 @@
+.principal{
+  height: 100%;
+  background-image: url('../assets/img/login-fondo.jpg');
+  background-size: cover;
+  text-align: center;
+}
+
+.formulario{
+  color: white;
+  font-size: 20px;
+  width: 30%;
+  display: inline-block;
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+}
+
+.formulario h1{
+  text-align: center;
+}
